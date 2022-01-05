@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+bazel-bin
+bazel-out
+bazel-test*
+
+main.dSYM
+BUILD.bazel
+WORKSPACE
